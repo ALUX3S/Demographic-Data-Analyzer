@@ -1,2 +1,1 @@
-# Demographic-Data-Analyzer
-Demographic Data Analyzer
+This is the project 2 of 5 to get my Data Analysis with Python certification from freeCodeCamp.
